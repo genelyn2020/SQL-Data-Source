@@ -1,8 +1,6 @@
 # SQL-Data-Source
 
-# SQL-Data-Source
-
-#Nation Database
+# Nation Database
 
 The database used was the SQL Tutorial sample database which can be found on this website.
 This SQL Sample Database called Nation that has six tables that store basic information on countries, regions, languages, and statistics.
