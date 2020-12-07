@@ -1,0 +1,1 @@
+INSERT INTO `guests`(`guest_id`, `name`) VALUES (6,'MEM')
