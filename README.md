@@ -25,7 +25,8 @@ The Nation sample database consists of the following tables:
 6. **Regions** stores the data of regions such as Southern and Central Asia, Central Africa, Southern Europe. A region belongs to one continent. And one continent may have multiple regions.
 
 # Installation
-In creating the sample database step by step you can [download](https://www.mariadbtutorial.com/getting-started/install-mariadb/)
+In creating the sample database step by step you can [download](https://www.mariadbtutorial.com/getting-started/install-mariadb/) or maybe 
+this one 
 
 
 
