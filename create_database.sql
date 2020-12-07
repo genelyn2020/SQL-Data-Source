@@ -1,1 +1,0 @@
-create [or replace] database [if not exists] database_name
