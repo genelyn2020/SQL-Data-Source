@@ -27,7 +27,7 @@ The Nation sample database consists of the following tables:
 # Installation
 In creating the sample database step by step you can [click me](https://www.sqltutorial.org/) 
 
-or maybe this one  direct to sample database
+or maybe this one [click me](https://github.com/genelyn2020/SQL-Data-Source/blob/main/nation.sql) direct to sample database
 
 
 
