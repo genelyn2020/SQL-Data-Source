@@ -2,18 +2,24 @@
 
 **Nation Database**
 
-The database used was the SQL Tutorial sample database which can be found on this website.
-This SQL Sample Database called Nation that has six tables that store basic information on countries, regions, languages, and statistics.
+**What the database is all about?**
+This SQL Sample Database called Nation that has six tables that store basic information on countries, regions, languages, continents, and statistics.
+
+**Where did you get the database?**
+[here](https://www.mariadbtutorial.com/getting-started/mariadb-sample-database/) 
+
+**Table Name and Description
+
+The countries table stores basic information on countries including the country name, the area in km2, independent year, 2-digit and 3-digit country codes, and region.
+
+
+
 
 # The following database diagram illustrates the Nation sample database:
 
 ![image](https://user-images.githubusercontent.com/72040803/101278152-7a663a80-37f4-11eb-9b68-cbc2298b7c46.png)
 
-# CONTENTS
-1. The Database Tables
-2. Installation
-3. Basic SQL Commands
-4. Advance SQL
+
 
 # The Database Tables
 The Nation sample database consists of the following tables: 
