@@ -1,1 +1,0 @@
-INSERT INTO `guests`(`guest_id`, `name`) VALUES (7,'Bianca'), (8,'Ava joy'), (9,'Jean'), (10,'Krishna')
