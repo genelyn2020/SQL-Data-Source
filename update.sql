@@ -1,1 +1,0 @@
-UPDATE `guests` SET `guest_id`=6,`name`='Genelyn',`lastname`='CATA' WHERE name = 'MEM'
