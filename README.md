@@ -1,6 +1,6 @@
 # SQL-Data-Source
 
-**CONTENT**
+# CONTENT
 
 [SQL Database Sample]()
 
@@ -8,28 +8,43 @@
 
 [SQL QUERIES ]()
 
+[INSTALLATION ](url)
 
-**SQL DATABASE SAMPLE**
+
+# SQL DATABASE SAMPLE
 
 This SQL Sample Database called Nation that has six tables that store basic information on countries, regions, languages, continents, and statistics. These table show you a basic data information of Nation. The database used was the MariaDB Tutorial sample database which can be found on this [website](https://www.mariadbtutorial.com/). and this site you can learn how to load the sample database into the MariaDB server.
 
 
-**DATABASE TABLE**
+# The following database diagram illustrates the Nation sample database:
 
-**Countries**  Basic information on countries including the country name, the area in km2, independent year, 2-digit and 3-digit country codes, and region.
-
-**Country_languages** Each country may have one or more languages. The country_languages table stores the relationships between countries and languages tables. 
-
-**Languages** This table stores the names of languages including the English, Spanish, French, Arabic, and etc. 
-
-**Continents**  This table store information on the continents including the North America, Asia, Africa, Europe, and etc.  
-
-**Country_statistics** This table stores country’s statistics by year such as population and GDP.
-
-**Regions** This table stores information on regions. A region belongs to one continent. And one continent may have multiple regions. 
+![image](https://user-images.githubusercontent.com/72040803/101278152-7a663a80-37f4-11eb-9b68-cbc2298b7c46.png)
 
 
-**SQL QUERIES** 
+
+
+# DATABASE TABLE
+
+### Countries 
+Basic information on countries including the country name, the area in km2, independent year, 2-digit and 3-digit country codes, and region.
+
+### Country_languages 
+Each country may have one or more languages. The country_languages table stores the relationships between countries and languages tables. 
+
+### Languages 
+This table stores the names of languages including the English, Spanish, French, Arabic, and etc. 
+
+### Continents 
+This table store information on the continents including the North America, Asia, Africa, Europe, and etc.  
+
+### Country_statistics 
+This table stores country’s statistics by year such as population and GDP.
+
+### Regions 
+This table stores information on regions. A region belongs to one continent. And one continent may have multiple regions. 
+
+
+# SQL QUERIES
 
 1.  Insert Multiple Rows - To insert multiple rows into a table.  
 **Why is important?**
@@ -68,11 +83,6 @@ Why is important?
 
 
 
-
-
-# The following database diagram illustrates the Nation sample database:
-
-![image](https://user-images.githubusercontent.com/72040803/101278152-7a663a80-37f4-11eb-9b68-cbc2298b7c46.png)
 
 
 # Installation
