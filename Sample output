@@ -1,27 +1,27 @@
-1.  INSERT MULTIPLE ROWS
-![multiple raw](https://user-images.githubusercontent.com/72040803/101884108-2af88380-3bd3-11eb-9e7d-0453fb18a195.png)
+# INSERT MULTIPLE ROWS
+![sample output](https://user-images.githubusercontent.com/72040803/101884108-2af88380-3bd3-11eb-9e7d-0453fb18a195.png)
 
-2. ORDER BY
-![order by](https://user-images.githubusercontent.com/72040803/101884193-4499cb00-3bd3-11eb-99a4-07ef1fe1128b.png)
+# ORDER BY
+![sample output](https://user-images.githubusercontent.com/72040803/101884193-4499cb00-3bd3-11eb-99a4-07ef1fe1128b.png)
 
-3. BETWEEN OPERATOR
-![between](https://user-images.githubusercontent.com/72040803/101884226-511e2380-3bd3-11eb-877b-7250ae85ac85.png)
+# BETWEEN OPERATOR
+!sample output](https://user-images.githubusercontent.com/72040803/101884226-511e2380-3bd3-11eb-877b-7250ae85ac85.png)
 
-4. ALTER TABLE
-![alter by](https://user-images.githubusercontent.com/72040803/101884250-5aa78b80-3bd3-11eb-8cbd-26263b187bef.png)
+# ALTER TABLE
+![sample output](https://user-images.githubusercontent.com/72040803/101884250-5aa78b80-3bd3-11eb-8cbd-26263b187bef.png)
 
-5. DISTINCT
+# DISTINCT
 
-6. IS NULL
+# IS NULL
 
-7. HAVING
+#1  HAVING
 
-8. LIMIT
+# LIMIT
 
-9. LIKE 
+# LIKE 
 
-10. IN
+# IN
 
-11. INNER JOIN 
+# INNER JOIN 
 
-12. RIGHT JOIN
+# RIGHT JOIN
