@@ -2,13 +2,13 @@
 
 # CONTENT
 
-[SQL Database Sample]()
+[SQL Database Sample](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#sql-database-sample)
 
-[Database Table]()
+[Database Table](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#database-table)
 
-[SQL QUERIES ]()
+[SQL QUERIES ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#sql-queries)
 
-[INSTALLATION ](url)
+[INSTALLATION ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#installation)
 
 
 # SQL DATABASE SAMPLE
