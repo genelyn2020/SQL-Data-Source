@@ -1,14 +1,15 @@
 # SQL-Data-Source
+**CONTENT**
+[SQL Database Sample]()
+[Database Table]()
+[SQL QUERIES ](url)
 
-**Nation Database**
 
-**What the database is all about?**
-This SQL Sample Database called Nation that has six tables that store basic information on countries, regions, languages, continents, and statistics.
+**SQL DATABASE SAMPLE**
+This SQL Sample Database called Nation that has six tables that store basic information on countries, regions, languages, continents, and statistics. These table show you a basic data information of Nation. The database used was the MariaDB Tutorial sample database which can be found on this here. and this site you can learn how to load the sample database into the MariaDB server.
 
-**Where did you get the database?**
-[here](https://www.mariadbtutorial.com/getting-started/mariadb-sample-database/) 
 
-**Table Name and Description**
+**DATABASE TABLE**
 
 **Countries**  Basic information on countries including the country name, the area in km2, independent year, 2-digit and 3-digit country codes, and region.
 
@@ -23,9 +24,9 @@ This SQL Sample Database called Nation that has six tables that store basic info
 **Regions** This table stores information on regions. A region belongs to one continent. And one continent may have multiple regions. 
 
 
-**COMPLEX QUERIES** 
+**SQL QUERIES** 
 
-1.  Insert Multiple Rows - Inserting three rows into the guests table.  
+1.  Insert Multiple Rows - To insert multiple rows into a table.  
 **Why is important?**
 It is important to use especially in big database you have to insert a lot of data.
 **Sample output**
@@ -72,7 +73,7 @@ Why is important?
 
 
 # Installation
-In creating the sample database step by step you can [click me](https://www.sqltutorial.org/) 
+In creating the sample database step by step you can [click me](https://www.sqltutorial.org/) OR [here](https://www.mariadbtutorial.com/mariadb-basics/mariadb-subqueries/)
 
 
 
