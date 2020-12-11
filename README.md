@@ -1,9 +1,11 @@
 # SQL-Data-Source
 
 **CONTENT**
-[SQL Database Sample]
-[Database Table]
-[SQL QUERIES ]
+[SQL Database Sample]()
+
+[Database Table]()
+
+[SQL QUERIES ]()
 
 
 **SQL DATABASE SAMPLE**
@@ -32,27 +34,25 @@ This SQL Sample Database called Nation that has six tables that store basic info
 **Why is important?**
 It is important to use especially in big database you have to insert a lot of data.
 **Sample output**
-![image](https://user-images.githubusercontent.com/72040803/101604710-43826580-3a3c-11eb-89a7-c2284449fc71.png)
+
 
 
 2. Alter table - Allows you to add one or more columns to a table.
 **Why is important?**
 **Sample output**
-![image](https://user-images.githubusercontent.com/72040803/101604519-00c08d80-3a3c-11eb-9de6-6e8e54a41942.png)
+
 
 3. Order by -  To sort the result of a query.
 **Why is important?**
 **Sample output**
-Before without applying order by
-![image](https://user-images.githubusercontent.com/72040803/101605705-7b3ddd00-3a3d-11eb-83e1-909ec52c18d7.png)
 
-After applying order by 
-![image](https://user-images.githubusercontent.com/72040803/101605332-01a5ef00-3a3d-11eb-8b67-2efe0f66cb68.png)
+
+
 
 4. Between operator - To test if a value is between two other values.
 Why is important?
 **Sample output**
-![image](https://user-images.githubusercontent.com/72040803/101608232-6a429b00-3a40-11eb-8fab-d23c7b02c550.png)
+
 
 
 
