@@ -50,23 +50,24 @@ This table stores information on regions. A region belongs to one continent. And
 To insert multiple rows into a table.  
 **Why is important?**
 It is important to use especially in big database you have to insert a lot of data.
-**Sample output**
+![sample output](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#insert-multiple-rows)
 
 
 # Alter table 
 - Allows you to add one or more columns to a table.
 **Why is important?**
-**Sample output**
+![sample output](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#alter-table)
 
 # Order by 
 - To sort the result of a query.
 **Why is important?**
 **Sample output**
+![sample output](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#order-by)
 
 # Between operator 
 - To test if a value is between two other values.
 Why is important?
-**Sample output**
+![sample output](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#between-operator)
 
 
 
