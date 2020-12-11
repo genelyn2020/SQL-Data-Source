@@ -94,12 +94,14 @@
 
 # INTERSECT 
 **Table location**
+
 ![image](https://user-images.githubusercontent.com/72040803/101924809-11bff900-3c0c-11eb-9bfa-a5972f50c59c.png)
+
 ![image](https://user-images.githubusercontent.com/72040803/101924740-fbb23880-3c0b-11eb-9255-47b876adf8f6.png)
 
 
-
 **Output**
+
 ![sample output](https://user-images.githubusercontent.com/72040803/101924390-94948400-3c0b-11eb-9257-0bc04b985a01.png)
 
 
