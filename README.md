@@ -1,14 +1,14 @@
 # SQL-Data-Source
 
 **CONTENT**
-
-# [SQL Database Sample]()
-# [Database Table]()
-# [SQL QUERIES ](url)
+[SQL Database Sample]
+[Database Table]
+[SQL QUERIES ]
 
 
 **SQL DATABASE SAMPLE**
-This SQL Sample Database called Nation that has six tables that store basic information on countries, regions, languages, continents, and statistics. These table show you a basic data information of Nation. The database used was the MariaDB Tutorial sample database which can be found on this here. and this site you can learn how to load the sample database into the MariaDB server.
+
+This SQL Sample Database called Nation that has six tables that store basic information on countries, regions, languages, continents, and statistics. These table show you a basic data information of Nation. The database used was the MariaDB Tutorial sample database which can be found on this [website](https://www.mariadbtutorial.com/). and this site you can learn how to load the sample database into the MariaDB server.
 
 
 **DATABASE TABLE**
