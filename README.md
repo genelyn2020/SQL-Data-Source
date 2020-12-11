@@ -46,26 +46,25 @@ This table stores information on regions. A region belongs to one continent. And
 
 # SQL QUERIES
 
-1.  Insert Multiple Rows - To insert multiple rows into a table.  
+# Insert Multiple Rows 
+To insert multiple rows into a table.  
 **Why is important?**
 It is important to use especially in big database you have to insert a lot of data.
 **Sample output**
 
 
-
-2. Alter table - Allows you to add one or more columns to a table.
+# Alter table 
+- Allows you to add one or more columns to a table.
 **Why is important?**
 **Sample output**
 
-
-3. Order by -  To sort the result of a query.
+# Order by 
+- To sort the result of a query.
 **Why is important?**
 **Sample output**
 
-
-
-
-4. Between operator - To test if a value is between two other values.
+# Between operator 
+- To test if a value is between two other values.
 Why is important?
 **Sample output**
 
