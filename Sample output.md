@@ -4,9 +4,8 @@
 ![image](https://user-images.githubusercontent.com/72040803/102595935-65be6680-4153-11eb-928b-066b2a0697a7.png)
 
 **Output**
-![image](https://user-images.githubusercontent.com/72040803/102596954-dca82f00-4154-11eb-9500-137a0a2b898a.png)
 
-
+![sample output](https://user-images.githubusercontent.com/72040803/102596954-dca82f00-4154-11eb-9500-137a0a2b898a.png)
 
 
 # ORDER BY
@@ -20,6 +19,10 @@
 
 
 # BETWEEN OPERATOR
+**Table location**
+
+![countries](https://user-images.githubusercontent.com/72040803/101891178-a6aafe00-3bdc-11eb-88ce-92a509dda972.PNG)
+
 **Output**
 
 ![sample output](https://user-images.githubusercontent.com/72040803/101884226-511e2380-3bd3-11eb-877b-7250ae85ac85.png)
