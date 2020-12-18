@@ -1,12 +1,11 @@
 # INSERT MULTIPLE ROWS
 **Table location**
 
-![sample output](https://user-images.githubusercontent.com/72040803/101919329-63b15080-3c05-11eb-8d27-d79ea019ec68.png)
-
+![image](https://user-images.githubusercontent.com/72040803/102595935-65be6680-4153-11eb-928b-066b2a0697a7.png)
 
 **Output**
+![image](https://user-images.githubusercontent.com/72040803/102596954-dca82f00-4154-11eb-9500-137a0a2b898a.png)
 
-![sample output](https://user-images.githubusercontent.com/72040803/101919904-171a4500-3c06-11eb-83ad-a9cecd1bed81.png)
 
 
 
@@ -51,9 +50,26 @@
 
 
 
-# LIMIT
+# COMMIT
+**Table location**
 
-# LIKE 
+![image](https://user-images.githubusercontent.com/72040803/102613265-23a21e80-416d-11eb-942c-6882f241f122.png)
+
+
+**Output**
+
+![image](https://user-images.githubusercontent.com/72040803/102612994-b2626b80-416c-11eb-8629-e84626638aef.png)
+
+
+
+# CONCATENATE
+**Table location**
+
+![image](https://user-images.githubusercontent.com/72040803/102605639-8640ed80-4160-11eb-900f-924ea5738b79.png)
+
+**Output**
+
+![sample output](https://user-images.githubusercontent.com/72040803/102605537-61e51100-4160-11eb-8177-14cc5d71777b.png)
 
 # IN
 **Table location**
@@ -67,14 +83,29 @@
 # INNER JOIN 
 **Table location**
 
-![countries](https://user-images.githubusercontent.com/72040803/101891178-a6aafe00-3bdc-11eb-88ce-92a509dda972.PNG)
+![image](https://user-images.githubusercontent.com/72040803/102604340-00707280-415f-11eb-97fa-0b0e07da241a.png)
+
 
 **Output**
 
 ![sample output](https://user-images.githubusercontent.com/72040803/101891026-782d2300-3bdc-11eb-8c69-a86f0a36fc43.PNG)
 
 
-# RIGHT JOIN
+# UNION
+**Table location**
+
+**Countries**
+
+![countries](https://user-images.githubusercontent.com/72040803/102603370-a58a4b80-415d-11eb-93ba-423e1b25c96b.png)
+
+**Country_languages**
+
+![country_languages](https://user-images.githubusercontent.com/72040803/102603993-85a75780-415e-11eb-8c0d-6e1f39303990.png)
+
+**Output**
+
+![sample output](https://user-images.githubusercontent.com/72040803/102603233-7a076100-415d-11eb-8899-7ec37c3433d3.png)
+
 
 # LEFT JOIN
 **Table location**
@@ -103,6 +134,7 @@
 **Output**
 
 ![sample output](https://user-images.githubusercontent.com/72040803/101924390-94948400-3c0b-11eb-9257-0bc04b985a01.png)
+
 
 
 
