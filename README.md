@@ -10,6 +10,33 @@
 
 [INSTALLATION ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#installation)
 
+[SQL INSERT MULTIPLE ROWS]
+
+[SQL DISTINCT]
+
+[SQL ORDER BY]
+
+[SQL BETWEEN OPERATOR]
+
+[SQL HAVING]
+
+[SQL COMMIT]
+
+[SQL CONCATENATE]
+
+[SQL IN]
+
+[SQL INNER JOIN]
+
+[SQL LEFT JOIN]
+
+[SQL UNION]
+
+[SQL INTERSECT]
+
+
+
+
 
 # SQL DATABASE SAMPLE
 
@@ -46,7 +73,7 @@ This table stores information on regions. A region belongs to one continent. And
 
 # SQL QUERIES
 
-# Insert Multiple Rows 
+# INSERT MULTIPLE ROWS 
 To insert multiple rows into a table.  
 
 **Why is important?**
@@ -56,15 +83,15 @@ It is important to use especially in big database you have to insert a lot of da
 ![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#insert-multiple-rows)
 
 
-# Alter table 
+# DISTINCT
 - Allows you to add one or more columns to a table.
 
 **Why is important?**
 
 **Sample output**
-![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#alter-table)
+![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#distinct)
 
-# Order by 
+# ORDER BY
 - To sort the result of a query.
 
 **Why is important?**
@@ -72,7 +99,7 @@ It is important to use especially in big database you have to insert a lot of da
 **Sample output**
 ![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#order-by)
 
-# Between operator 
+# BETWEEN OPERATOR 
 - To test if a value is between two other values.
 
 **Why is important?**
@@ -81,13 +108,61 @@ It is important to use especially in big database you have to insert a lot of da
 ![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#between-operator)
 
 
+# HAVING
+-
+
+**Sample output**
+![here]https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#having
+
+
+# COMMIT
+-
+
+**Sample output**
+![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#commit)
+
+
+# CONCATENATE
+-
+
+**Sample output**
+![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#concatenate)
+
+
+# IN
+-
+
+**Sample output**
+![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#in)
+
+
+# INNER JOIN 
+-
+
+**Sample output**
+![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#inner-join)
+
+
+# LEFT JOIN
+-
+
+**Sample output**
+![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#left-join)
 
 
 
+# UNION
+-
+
+**Sample output**
+![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#union)
 
 
+# INTERSECT 
+-
 
-
+**Sample output**
+![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#intersect)
 
 
 
