@@ -10,29 +10,29 @@
 
 [INSTALLATION ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#installation)
 
-[SQL INSERT MULTIPLE ROWS]
+[SQL INSERT MULTIPLE ROWS](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#insert-multiple-rows)
 
-[SQL DISTINCT]
+[SQL DISTINCT](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#distinct)
 
-[SQL ORDER BY]
+[SQL ORDER BY](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#order-by)
 
-[SQL BETWEEN OPERATOR]
+[SQL BETWEEN OPERATOR](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#between-operator)
 
-[SQL HAVING]
+[SQL HAVING](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#having)
 
-[SQL COMMIT]
+[SQL COMMIT](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#commit)
 
-[SQL CONCATENATE]
+[SQL CONCATENATE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#concatenate)
 
-[SQL IN]
+[SQL IN](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#in)
 
-[SQL INNER JOIN]
+[SQL INNER JOIN](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#inner-join)
 
-[SQL LEFT JOIN]
+[SQL LEFT JOIN](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#left-join)
 
-[SQL UNION]
+[SQL UNION](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#union)
 
-[SQL INTERSECT]
+[SQL INTERSECT](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#intersect)
 
 
 
@@ -112,7 +112,7 @@ It is important to use especially in big database you have to insert a lot of da
 -
 
 **Sample output**
-![here]https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#having
+![here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#having)
 
 
 # COMMIT
