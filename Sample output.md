@@ -28,8 +28,6 @@
 ![sample output](https://user-images.githubusercontent.com/72040803/101884226-511e2380-3bd3-11eb-877b-7250ae85ac85.png)
 
 
-# ALTER TABLE
-
 
 # DISTINCT
 **Table location**
