@@ -10,33 +10,43 @@
 
 [SQL QUERIES ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#sql-queries)
 
+[INSTALLATION ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#installation)
+
 [SQL ORDER BY](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#order-by)
 
-[INSTALLATION ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#installation)
+[SQL CASE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#case)
+
+[SQL COMMIT ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#commit)
+
+[SQL CONCATENATE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#concatenate)
 
 [SQL DISTINCT](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#distinct)
 
-
-[SQL BETWEEN OPERATOR](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#between-operator)
+[SQL EXISTS](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#exists)
 
 [SQL HAVING](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#having)
-
-[SQL COMMIT](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#commit)
-
-[SQL CONCATENATE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#concatenate)
 
 [SQL IN](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#in)
 
 [SQL INNER JOIN](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#inner-join)
 
-[SQL LEFT JOIN](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#left-join)
+[SQL INTERSECT](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#intersect)
+
+[SQL LIKE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#like)
+
+[SQL MAX](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#max)
+
+[SQL ORDER BY](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#order-by)
+
+[SQL RIGHT JOIN](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#right-join)
+
+[SQL SHOW INDEX]( https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#show-index)
+
+[SQL TRIGGER](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#trigger)
 
 [SQL UNION](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#union)
 
-[SQL INTERSECT](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#intersect)
-
-
-
+[SQL VIEWS](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#views)
 
 
 # SQL DATABASE SAMPLE
