@@ -252,12 +252,15 @@
 **Table location**
 
 **Countries**
+
 ![image](https://user-images.githubusercontent.com/72040803/103165858-467aa580-47f3-11eb-80ec-af0d997d4b37.png)
 
 **Regions**
+
 ![image](https://user-images.githubusercontent.com/72040803/103165831-e4ba3b80-47f2-11eb-93a5-4e71d3923238.png)
 
 **Continents**
+
 ![image](https://user-images.githubusercontent.com/72040803/103165838-03203700-47f3-11eb-9baa-973748d64640.png)
 
 **Output**
