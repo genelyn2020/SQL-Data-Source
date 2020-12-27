@@ -12,13 +12,15 @@
 
 [INSTALLATION ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#installation)
 
-[SQL ORDER BY](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#order-by)
+[SQL BETWEEN OPERATOR](https://github.com/genelyn2020/SQL-Data-Source#between-operator)
 
 [SQL CASE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#case)
 
 [SQL COMMIT ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#commit)
 
 [SQL CONCATENATE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#concatenate)
+
+[SQL COUNT](https://github.com/genelyn2020/SQL-Data-Source#count)
 
 [SQL DISTINCT](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#distinct)
 
@@ -34,6 +36,8 @@
 
 [SQL LIKE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#like)
 
+[SQL LEFT JOIN](https://github.com/genelyn2020/SQL-Data-Source#left-join)
+
 [SQL MAX](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#max)
 
 [SQL ORDER BY](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#order-by)
@@ -41,6 +45,8 @@
 [SQL RIGHT JOIN](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#right-join)
 
 [SQL SHOW INDEX]( https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#show-index)
+
+[SQL SUBQUERY](https://github.com/genelyn2020/SQL-Data-Source#subquery)
 
 [SQL TRIGGER](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#trigger)
 
