@@ -240,7 +240,7 @@ This table stores information on regions. A region belongs to one continent. And
 
 
 # Installation
-In creating the sample database step by step you can [click me](https://www.sqltutorial.org/) OR [here](https://www.mariadbtutorial.com/mariadb-basics/mariadb-subqueries/)
+In creating the sample database step by step you can visit this site [click me](https://www.sqltutorial.org/) OR [here](https://www.mariadbtutorial.com/mariadb-basics/mariadb-subqueries/)
 
 
 
