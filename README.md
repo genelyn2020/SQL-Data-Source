@@ -95,17 +95,12 @@ This table stores information on regions. A region belongs to one continent. And
 # BETWEEN OPERATOR 
 - to test if a value is between two other values.
 
-**Why is important?**
-
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#between-operator)
 
 
 # CASE
 -allows you to evaluate a list of conditions and returns one of the possible results. 
-
-**Why is important?**
--
 
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#case)
@@ -114,18 +109,12 @@ This table stores information on regions. A region belongs to one continent. And
 # COMMIT
 - is used for storing changes performed by a transaction.
 
-**Why is important?**
--
-
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#commit)
 
 
 # CONCATENATE
 -  allows you to concatenate strings together.
-
-**Why is important?**
--
 
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#concatenate)
@@ -134,17 +123,12 @@ This table stores information on regions. A region belongs to one continent. And
 # COUNT
 -  to get the number of items in a group.
 
-**Why is important?**
--
-
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#count)
 
 
 # DISTINCT
 - allows you to add one or more columns to a table.
-
-**Why is important?**
 
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#distinct)
@@ -153,18 +137,12 @@ This table stores information on regions. A region belongs to one continent. And
 # EXISTS
 - to test for the existence of rows in a subquery.
 
-**Why is important?**
--
-
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#exists)
 
 
 # HAVING
 - to specify a search condition for groups.
-
-**Why is important?**
--
 
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#having)
@@ -215,16 +193,12 @@ This table stores information on regions. A region belongs to one continent. And
 # ORDER BY
 - to sort the result of a query.
 
-**Why is important?**
-
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#order-by)
 
 
 # RIGHT JOIN 
 - this join returns all the rows of the table on the right side of the join and matching rows for the table on the left side of join.
-
-**Why is important?**
 
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#right-join)
@@ -238,7 +212,7 @@ This table stores information on regions. A region belongs to one continent. And
 
 
 # SUBQUERY 
--  to form more complex queries.
+- to form more complex queries.
 
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#subquery)
@@ -259,7 +233,7 @@ This table stores information on regions. A region belongs to one continent. And
 
 
 # VIEWS
--   to create new views, and their advantages including simplicity, consistency, and security.
+- to create new views, and their advantages including simplicity, consistency, and security.
 
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#union)
