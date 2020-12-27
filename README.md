@@ -100,7 +100,7 @@ This table stores information on regions. A region belongs to one continent. And
 
 
 # CASE
--allows you to evaluate a list of conditions and returns one of the possible results. 
+- allows you to evaluate a list of conditions and returns one of the possible results. 
 
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#case)
@@ -149,7 +149,7 @@ This table stores information on regions. A region belongs to one continent. And
 
 
 # IN
--to match a value with a list of values.
+- to match a value with a list of values.
 
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#in)
@@ -205,7 +205,7 @@ This table stores information on regions. A region belongs to one continent. And
 
 
 # SHOW INDEX
--allows you to find all indexes from a table.
+- allows you to find all indexes from a table.
 
 **Sample output**
 [here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#showing-indexes)
