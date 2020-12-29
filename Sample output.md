@@ -267,6 +267,21 @@
 
 ![image](https://user-images.githubusercontent.com/72040803/103165769-0830b680-47f2-11eb-8e55-b277af3afd4d.png)
 
+# STORED PROCEDURES
+**Table location**
+
+![countries](https://user-images.githubusercontent.com/72040803/103164576-a406f600-47e3-11eb-8790-ccfb3c38ce17.png)
+
+**Output**
+
+![image](https://user-images.githubusercontent.com/72040803/103269892-27178000-498d-11eb-9a0e-e55edd884c18.png)
+
+
+
+
+
+
+
 
 
 
