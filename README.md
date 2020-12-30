@@ -16,11 +16,11 @@
 
 [SQL CASE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#case)
 
+[SQL COMMIT](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#commit)
+
 [SQL STORED PROCEDURES ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#stored-procedures)
 
 [SQL CONCATENATE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#concatenate)
-
-[SQL COUNT](https://github.com/genelyn2020/SQL-Data-Source#count)
 
 [SQL DISTINCT](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#distinct)
 
@@ -67,6 +67,7 @@ This SQL Sample Database called Nation that has six tables that store basic info
 # Database Dependency Diagram
 
 ![dependency](https://user-images.githubusercontent.com/72040803/103166591-04a12d80-47fa-11eb-8772-d55a0ea0ce6f.png)
+-The diagram shows that each entities have undergone normalization eliminating all dependencies that can cause anomalies.
 
 
 # DATABASE TABLE
@@ -300,6 +301,10 @@ also can be used with the SELECT, INSERT, UPDATE, and DELETE statements.
 
 **Why is important?**
 - Is a suitable method to insures consistency on the results, and it improves transmission speed.
+
+**Sample output**
+[here](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#stored-procedures)
+
 
 
 # Installation
