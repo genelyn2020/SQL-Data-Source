@@ -161,17 +161,6 @@
 
 
 
-# COUNT
-**Table location**
-
-![image](https://user-images.githubusercontent.com/72040803/103164777-ce59b300-47e5-11eb-8f68-f3c4237421a0.png)
-
-**Output**
-
-![sample output](https://user-images.githubusercontent.com/72040803/103164514-b16fb080-47e2-11eb-8d86-0c886d0a1679.png)
-
-
-
 # EXISTS
 **Table location**
 
