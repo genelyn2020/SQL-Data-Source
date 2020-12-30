@@ -8,9 +8,11 @@
 
 [Database Dependency Diagram](https://user-images.githubusercontent.com/72040803/103164047-a31e9600-47dc-11eb-8403-af7bd8947bb7.png)
 
-[SQL QUERIES ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#sql-queries)
+[SQL COMPLEX QUERIES ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#sql-queries)
 
 [INSTALLATION ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#installation)
+
+# COMPLEX QUERIES
 
 [SQL BETWEEN OPERATOR](https://github.com/genelyn2020/SQL-Data-Source#between-operator)
 
