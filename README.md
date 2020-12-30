@@ -16,7 +16,7 @@
 
 [SQL CASE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#case)
 
-[SQL COMMIT ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#commit)
+[SQL STORED PROCEDURES ](https://github.com/genelyn2020/SQL-Data-Source/blob/main/Sample%20output.md#stored-procedures)
 
 [SQL CONCATENATE](https://github.com/genelyn2020/SQL-Data-Source/blob/main/README.md#concatenate)
 
@@ -296,7 +296,10 @@ also can be used with the SELECT, INSERT, UPDATE, and DELETE statements.
 
 
 # STORED PROCEDURE
-- 
+- show you how to create, execute, modify, and drop a stored procedure in SQL.
+
+**Why is important?**
+- Is a suitable method to insures consistency on the results, and it improves transmission speed.
 
 
 # Installation
